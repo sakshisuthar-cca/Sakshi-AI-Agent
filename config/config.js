@@ -17,7 +17,7 @@ const chatConfig = {
   header: {
     title: "Chat with SAKSHI",
     description:
-      "Greetings, I am a draft clone of ELIZA running the DOCTOR script. HOW DO YOU DO. PLEASE STATE YOUR PROBLEM.",
+      "Hello, I am Sakshi's AI bot. How do you do? How can I help you?",
   },
   suggestedPromptsTitle: "Here are some suggested prompts.",
   suggestedPrompts: [
